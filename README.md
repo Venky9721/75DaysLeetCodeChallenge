@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
