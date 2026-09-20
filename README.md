@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
 ## Greedy
 |  |
 | ------- |
