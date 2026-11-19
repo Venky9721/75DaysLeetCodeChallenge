@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1590-make-sum-divisible-by-p](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/1590-make-sum-divisible-by-p) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1590-make-sum-divisible-by-p](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/1590-make-sum-divisible-by-p) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/1590-make-sum-divisible-by-p) |
 ## Two Pointers
 |  |
 | ------- |
