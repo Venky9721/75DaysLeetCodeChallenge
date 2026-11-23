@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/1590-make-sum-divisible-by-p) |
 ## Two Pointers
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/2187-minimum-time-to-complete-trips) |
@@ -171,11 +174,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Venky9721/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 ## Sliding Window
